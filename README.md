@@ -18,13 +18,11 @@ Python 3
 Biblioteca os
 Biblioteca shutil
 ▶️ Como Executar
-1. Clone o repositório
-git clone https://github.com/seu-usuario/organizador-arquivos.git
-2. Acesse a pasta do projeto
-cd organizador-arquivos
-3. Execute o script
+
+1. Acesse a pasta do projeto
+2. Execute o script
 python organizador.py
-4. Informe o caminho da pasta
+3. Informe o caminho da pasta
 
 Exemplo:
 
